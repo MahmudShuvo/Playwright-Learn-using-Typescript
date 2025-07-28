@@ -30,7 +30,7 @@ test('Search and open a video on YouTube and Record at Cursor Test', async ({ pa
   await expect(page.getByRole('link', { name: '▶ #1 Playwright Automation' })).toBeVisible();
   await page.getByRole('link', { name: '2 #2 Advanced Playwright' }).click();
 
-  //Title Validation
+  //Title Validation from Youtube Playlist
   await expect(page.locator('#playlist')).toContainText('#1 Playwright Automation Using TypeScript Full Course 2025 | Playwright TypeScript Beginner Tutorial');
   await expect(page.locator('#playlist')).toContainText('#2 Advanced Playwright TypeScript Tutorial Full Course 2025 | Playwright Automation Tutorial');
 });
