@@ -1,7 +1,7 @@
 Automation using Playwright Typescript
 
--> Record Test
--> First Test using Locator
+-> Record Test <br/> 
+-> First Test using Locator <br/> 
 -> Record at Cursor
 -> Run Specific file - npx playwright test "tests\\Chapter 01\\02_First_Test.spec.ts"
 -> Headless Mode / Headed Mode - config.ts - headless : true/false
