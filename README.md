@@ -8,4 +8,4 @@ Automation using Playwright Typescript
 -> Run on different browsers from Terminal - Uncomment browsers from config.ts - npx playwright test "tests\\Chapter 01\\02_First_Test.spec.ts" --project="Microsoft Edge"/"Google Chrome"/"firefox" <br/>
 
 Chapter - 02 <br/>
--> Screenshot Capture <br/>
+-> Screenshot Capture  <br/>
