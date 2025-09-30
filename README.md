@@ -9,3 +9,5 @@ Automation using Playwright Typescript
 
 Chapter - 02 <br/>
 -> Screenshot Capture  <br/>
+-> Add Screenshot <br/>
+-> Locators <br/>
